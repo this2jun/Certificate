@@ -14,7 +14,7 @@
 -------------
 
 ## ✔️ 정보처리산업기사
-- [정보처리산업기사](https://github.com/this2jun/CS/blob/master/JAVA/JAVA.md)
+- [정보처리산업기사]([https://github.com/this2jun/Certificate/tree/master/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC])
 (필기시험 - 2.15 ~ 3.7 / 실기시험 - 4.27 ~ 5.12)
 ## ✔️ 측량 및 지형공간정보산업기사
 
